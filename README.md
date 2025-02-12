@@ -1,6 +1,4 @@
-## **README - Scoring du Risque de Crédit**
-
-### 🇫🇷 **Projet : Prédiction du Risque de Crédit**
+## **README - Scoring du Risque de Crédit (🇫🇷)**
 
 ### 📌 **Contexte**
 Dans un environnement bancaire où le risque de crédit est un enjeu clé, l’automatisation du processus d’octroi de crédit permet de :
@@ -35,7 +33,7 @@ Ce projet, dirigé par la **BNP**, vise à concevoir un **modèle de scoring du 
 
 ---
 
-## **README - Credit Risk Scoring** 🇬🇧
+## **README - Credit Risk Scoring (🇬🇧)** 
 
 ### 📌 **Context**
 In the banking industry, credit risk assessment is a major challenge. Automating the credit approval process helps:
