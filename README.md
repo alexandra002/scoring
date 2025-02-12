@@ -75,8 +75,6 @@ This project, led by **BNP**, aims to develop a **credit risk scoring model** th
 📁 scoring
 │── 📄 projet_scoring_BNP.ipynb     # Notebook principal avec l'analyse et la modélisation
 │── 📄 Rapport scoring.pdf          # Rapport détaillé du projet
-│── 📄 Projet Master IREF.pdf       # Cahier des charges du projet
-│── 🧮 client_credit_granting.csv   # Dossier contenant les données
 ```
 ---
 
