@@ -70,13 +70,5 @@ This project, led by **BNP**, aims to develop a **credit risk scoring model** th
 
 ---
 
-📂 **Structure du projet / Project Structure**
-```
-📁 scoring
-│── 📄 projet_scoring_BNP.ipynb     # Notebook principal avec l'analyse et la modélisation
-│── 📄 Rapport scoring.pdf          # Rapport détaillé du projet
-```
----
-
 💡 **Contact**
 Pour toute question ou suggestion, n’hésitez pas à me contacter via **GitHub** ou **LinkedIn**.
