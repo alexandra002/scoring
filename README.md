@@ -72,29 +72,12 @@ This project, led by **BNP**, aims to develop a **credit risk scoring model** th
 
 📂 **Structure du projet / Project Structure**
 ```
-📁 projet_scoring_BNP
-│── 📄 projet_scoring_BNP.ipynb  # Notebook principal avec l'analyse et la modélisation
-│── 📄 Rapport scoring.pdf       # Rapport détaillé du projet
-│── 📄 Projet Master IREF.pdf    # Cahier des charges du projet
-│── 📁 data/                     # Dossier contenant les données (si disponibles)
-│── 📁 models/                   # Dossier avec les modèles entraînés (optionnel)
+📁 scoring
+│── 📄 projet_scoring_BNP.ipynb     # Notebook principal avec l'analyse et la modélisation
+│── 📄 Rapport scoring.pdf          # Rapport détaillé du projet
+│── 📄 Projet Master IREF.pdf       # Cahier des charges du projet
+│── 🧮 client_credit_granting.csv   # Dossier contenant les données
 ```
-
-🚀 **Instructions pour exécuter le projet**
-1. **Cloner ce repository** :
-   ```bash
-   git clone https://github.com/[TON_GITHUB]/projet_scoring_BNP.git
-   cd projet_scoring_BNP
-   ```
-2. **Installer les dépendances** :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Lancer le Notebook Jupyter** :
-   ```bash
-   jupyter notebook projet_scoring_BNP.ipynb
-   ```
-
 ---
 
 💡 **Contact**
